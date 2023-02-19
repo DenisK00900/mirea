@@ -1,0 +1,10 @@
+﻿  circle.cpp
+D:\c++ pr\PR2_ZADANIE3\circle.h(12,17): warning C4305: инициализация: усечение из "double" в "const float"
+D:\c++ pr\PR2_ZADANIE3\circle.h(52,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\c++ pr\PR2_ZADANIE3\circle.cpp(7,30): warning C4305: инициализация: усечение из "double" в "float"
+D:\c++ pr\PR2_ZADANIE3\circle.cpp(39,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  maincode.cpp
+D:\c++ pr\PR2_ZADANIE3\circle.h(12,17): warning C4305: инициализация: усечение из "double" в "const float"
+D:\c++ pr\PR2_ZADANIE3\circle.h(52,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  Massgen.vcxproj -> D:\c++ pr\PR2_ZADANIE3\x64\Debug\Massgen.exe

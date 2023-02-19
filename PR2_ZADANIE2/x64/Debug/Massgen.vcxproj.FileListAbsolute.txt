@@ -1,0 +1,3 @@
+C:\Users\denis\Desktop\NTWGP\x64\Debug\Massgen.exe
+D:\c++ pr\NTWGP\x64\Debug\Massgen.exe
+D:\c++ pr\PR2_ZADANIE3\x64\Debug\Massgen.exe
