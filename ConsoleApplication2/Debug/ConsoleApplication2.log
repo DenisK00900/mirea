@@ -1,7 +1,0 @@
-﻿  ConsoleApplication2.cpp
-C:\Users\Student\source\repos\ConsoleApplication2\ConsoleApplication2\circle.h(12,17): warning C4305: инициализация: усечение из "double" в "const float"
-  circle.cpp
-C:\Users\Student\source\repos\ConsoleApplication2\ConsoleApplication2\circle.h(12,17): warning C4305: инициализация: усечение из "double" в "const float"
-C:\Users\Student\source\repos\ConsoleApplication2\ConsoleApplication2\circle.cpp(7,30): warning C4305: инициализация: усечение из "double" в "float"
-  Создание кода...
-  ConsoleApplication2.vcxproj -> C:\Users\Student\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
