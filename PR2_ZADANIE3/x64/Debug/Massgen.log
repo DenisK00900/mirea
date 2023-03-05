@@ -1,5 +1,0 @@
-﻿  maincode.cpp
-D:\c++ pr\NTWGP\figure.h(17,14): warning C4244: return: преобразование "double" в "float", возможна потеря данных
-D:\c++ pr\NTWGP\figure.h(42,94): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\c++ pr\NTWGP\figure.h(61,94): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-  Massgen.vcxproj -> D:\c++ pr\NTWGP\x64\Debug\Massgen.exe
